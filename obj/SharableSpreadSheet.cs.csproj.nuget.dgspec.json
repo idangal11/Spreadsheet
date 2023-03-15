@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\idang\\OneDrive\\Documents\\עבודה 3\\205814999_314978370\\Simulator\\SharableSpreadSheet.cs.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\idang\\OneDrive\\Documents\\עבודה 3\\205814999_314978370\\Simulator\\SharableSpreadSheet.cs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\idang\\OneDrive\\Documents\\עבודה 3\\205814999_314978370\\Simulator\\SharableSpreadSheet.cs.csproj",
+        "projectName": "SharableSpreadSheet.cs",
+        "projectPath": "C:\\Users\\idang\\OneDrive\\Documents\\עבודה 3\\205814999_314978370\\Simulator\\SharableSpreadSheet.cs.csproj",
+        "packagesPath": "C:\\Users\\idang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\idang\\OneDrive\\Documents\\עבודה 3\\205814999_314978370\\Simulator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\idang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[5.5.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

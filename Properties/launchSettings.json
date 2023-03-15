@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SharableSpreadSheet.cs": {
+      "commandName": "Project",
+      "commandLineArgs": "10 10 5 2 500"
+    }
+  }
+}
